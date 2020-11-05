@@ -32,3 +32,7 @@ h1{
 .heading{
     color: #F47920;
 }
+
+.src{
+    image-orientation: initial;
+}
