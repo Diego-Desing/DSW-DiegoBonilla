@@ -1,24 +1,34 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
 .titulo{
-   text-anchor: start;
-    background-color: #F47920;
-font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+   color:#005883 ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .menu{
-    padding: 20px;
-    background-size:#A54686;
+    text-align: center;
+    color: #F47920;
+    padding: 30px;
+    background-color:#A54686;
     width: 100%;
 }
 .parrafo{
+    color: #808080;
     text-anchor: start;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     backdrop-filter: #43C7F4;
 }
 h1{
-    background-color: #50B748;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 .tabla{
     width: 70%;
     margin: 40;
+}
+
+.heading{
+    color: #F47920;
 }
